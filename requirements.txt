@@ -1,9 +1,8 @@
-streamlit
+streamlit>=1.30
 pandas
 geopandas
-shapely==2.1.1
+shapely
 pillow
-fiona==1.9.4
 folium
 pandas
 matplotlib
