@@ -2,7 +2,7 @@ streamlit
 pandas
 geopandas
 shapely==2.1.1
-pyproj==3.5.0
+pillow
 fiona==1.9.4
 folium
 pandas
